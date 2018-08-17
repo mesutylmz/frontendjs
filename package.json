@@ -1,0 +1,25 @@
+{
+  "name": "viavis_front",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.18.0",
+    "react": "^16.4.2",
+    "react-alert": "^4.0.4",
+    "react-alert-template-basic": "^1.0.0",
+    "react-dom": "^16.4.2",
+    "react-notifications": "^1.4.3",
+    "react-notify-toast": "^0.5.0",
+    "react-scripts": "1.1.4",
+    "react-simplert": "0.0.2",
+    "react-table": "^6.8.6",
+    "react-toast-notifications": "^1.2.0",
+    "react-toastify": "^4.1.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
